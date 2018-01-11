@@ -10,5 +10,5 @@ class Program
     }
   static void Main() args[]
   {
-  new Person = new Person {Name = Jonas, Age = 31, Hobbies = Mountains and games};
+  new Person = new Person {Name = Jonas, Age = 32, Hobbies = Mountains and games;
   }
